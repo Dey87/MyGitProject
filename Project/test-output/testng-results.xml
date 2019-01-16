@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="16814" started-at="2018-11-23T12:05:54Z" finished-at="2018-11-23T12:06:10Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="16814" started-at="2018-11-23T12:05:54Z" finished-at="2018-11-23T12:06:10Z">
+      <class name="website.DashboardGetLatest">
+        <test-method status="PASS" signature="getLatest()[pri:0, instance:website.DashboardGetLatest@b1ffe6]" name="getLatest" duration-ms="16793" started-at="2018-11-23T12:05:54Z" finished-at="2018-11-23T12:06:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getLatest -->
+      </class> <!-- website.DashboardGetLatest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

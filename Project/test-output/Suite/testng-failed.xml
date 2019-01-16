@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="eda6.Department">
+        <methods>
+          <include name="DepartmentSpecialCharacterSubmit"/>
+          <include name="DepartmentBlankSubmit"/>
+          <include name="AddDepartment"/>
+        </methods>
+      </class> <!-- eda6.Department -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
